@@ -1,0 +1,97 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 1 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\C¼Ñ¼Ñ\AppData\Local\Temp\RSP322.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/1.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp"
+]
+Creating command line "cl.exe @"C:\Users\C¼Ñ¼Ñ\AppData\Local\Temp\RSP322.tmp"" 
+Creating temporary file "C:\Users\C¼Ñ¼Ñ\AppData\Local\Temp\RSP323.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/1.pdb" /debug /machine:I386 /out:"Debug/1.exe" /pdbtype:sept 
+".\Debug\1.obj"
+]
+Creating command line "link.exe @"C:\Users\C¼Ñ¼Ñ\AppData\Local\Temp\RSP323.tmp""
+<h3>Output Window</h3>
+Compiling...
+1.cpp
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(134) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(134) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(135) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(135) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(140) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(140) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(141) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(141) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(142) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(142) : warning C4244: 'argument' : conversion from 'const double' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(169) : warning C4305: '=' : truncation from 'const double' to 'float'
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(510) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(511) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(511) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(512) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(512) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(515) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(515) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(516) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(516) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(520) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(520) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(521) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(521) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(525) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(525) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(526) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(526) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(530) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(530) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(531) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(531) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(535) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(535) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(536) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(536) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(540) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(540) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(541) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(541) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(545) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(545) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(546) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(546) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(551) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(551) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(552) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(552) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(748) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(748) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1272) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1274) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1288) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1290) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1304) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1306) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1320) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1322) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1339) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1353) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1367) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1381) : warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1469) : warning C4305: '+=' : truncation from 'const double' to 'float'
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1470) : warning C4305: '+=' : truncation from 'const double' to 'float'
+C:\Users\C¼Ñ¼Ñ\Desktop\VC6.0green\MyProjects\image\1.cpp(1481) : warning C4305: '-=' : truncation from 'const double' to 'float'
+Linking...
+
+
+
+<h3>Results</h3>
+1.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
